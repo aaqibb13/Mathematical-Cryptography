@@ -25,3 +25,10 @@ As an example we consider a few examples:
   <h4> gcd(a, N) = 1 </h4>
 </div>
 It's important to determine when the inverse exists. To do this, we use a variant of Euclid’s gcd algorithm, called the Extended Euclidean algorithm. The extended Euclidean algorithm takes as input a and b and after finding that the inverse exists, and further outputs the inverse of a number.
+
+## Further Progress:
+- [ ] Binary Extended Euclidean Algorithm
+- [ ] Chinese Remainder Theorem
+- [ ] Legendre Symbol
+- [ ] Jacobi Symbol
+- [ ] Shank's Algorithm for extracting a square root of a modulo p
