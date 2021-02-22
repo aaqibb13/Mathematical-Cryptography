@@ -1,7 +1,7 @@
 # Mathematical-Cryptography
 ![GitHub repo size](https://img.shields.io/github/repo-size/aaqibb13/Mathematical-Cryptography) ![Lines of code](https://img.shields.io/tokei/lines/github/aaqibb13/Mathematical-Cryptography)
 
-This repository contains Python implementation of algorithms that are used almost everywhere in Mathematical Cryptography. There are seceral basic algorithms that are used in cryptography over and over again. The ones we are focusing on right now are:
+This repository contains Python implementation of algorithms that are used almost everywhere in Mathematical Cryptography. There are several basic algorithms that are used in cryptography over and over again. The ones we are focusing on right now are:
 
 - [Euclidean gcd Algorithm](euclideanalgo.py) 
 - [Binary Euclidean Algorithm](bineuclid.py)
