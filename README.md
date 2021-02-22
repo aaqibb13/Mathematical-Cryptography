@@ -22,5 +22,6 @@ As an example we consider a few examples:
 
 3. [Extended Euclidean Algorithm](eea.py): Using the Extended Euclidean Algorithm one can determine when a has an inverse modulo N by testing whether:
 <div align="center">
-  <h3> gcd(a, N) = 1 </h3>
+  <h4> gcd(a, N) = 1 </h4>
 </div>
+It's important to determine when the inverse exists. To do this, we use a variant of Euclid’s gcd algorithm, called the Extended Euclidean algorithm. The extended Euclidean algorithm takes as input a and b and after finding that the inverse exists, and further outputs the inverse of a number.
