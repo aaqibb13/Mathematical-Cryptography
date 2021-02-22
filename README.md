@@ -18,5 +18,6 @@ As an example we consider a few examples:
 
 > **Caveat:** Euclidean Algorithm is inefficient since it is easy for a computer to perform addition and multiplication rather than to take remainders and quotients.
 
-[Binary Euclidean Algorithm](bineuclid.py): It should not be hard to understand that it is easier for a computer to divide by two since it can simply be accomplished by a cheaper operation (bit shift). This is exactly how the binary Euclidean Algorithm works
+[Binary Euclidean Algorithm](bineuclid.py): It should not be hard to understand that it is easier for a computer to divide by two since it can simply be accomplished by a cheaper operation (bit shift). This is exactly how the binary Euclidean Algorithm works by removing any power of two in the gcd. The Binary version of Euclidean Algorithm is efficient compared to Euclidean gcd Algorithm.
 
+[Extended Euclidean Algorithm](eea.py)
