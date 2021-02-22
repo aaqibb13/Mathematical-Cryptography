@@ -8,3 +8,10 @@ This repository contains Python implementation of algorithms that are used almos
 
 [The Euclidean Algorithm](euclideanalgo.py): The case of integers is considered only since it can be easily generalized to polynomials due to the fact that both integers and polynomials allow Euclidean division.
 As an example we consider a few examples:
+> Case 1: For Small Numbers:
+
+![](Example1.png)
+
+> Case 2: For larger numbers:
+
+![](Example2.png)
