@@ -11,11 +11,11 @@ This repository contains Python implementation of algorithms that are used almos
 As an example we consider a few examples:
 > **Case 1: For Small Numbers:**
 
-![](Example1.png)
+<img src="Example1.png" alt="Paris" class="center">
 
 > **Case 2: For larger numbers:**
 
-![](Example2.png)
+<img src="Example2.png" alt="Paris" class="center">
 
 > **Caveat:** Euclidean Algorithm is inefficient since it is easy for a computer to perform addition and multiplication rather than to take remainders and quotients.
 
