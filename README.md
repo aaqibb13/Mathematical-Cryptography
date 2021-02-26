@@ -10,6 +10,7 @@ This repository contains Python implementation of algorithms that are used almos
 
 1. [The Euclidean Algorithm](euclideanalgo.py): The case of integers is considered only since it can be easily generalized to polynomials due to the fact that both integers and polynomials allow Euclidean division.
 As an example we consider a few examples:
+
 > **Case 1: For Small Numbers:**
 
 <img src="Example1.png" alt="Paris" class="center">
