@@ -35,3 +35,9 @@ It's important to determine when the inverse exists. To do this, we use a varian
 - [ ] Legendre Symbol
 - [ ] Jacobi Symbol
 - [ ] Shank's Algorithm for extracting a square root of a modulo p
+
+## Complexities of the algorithms
+|   Algorithm           | Complexity of the Algorithm          |
+|                       |                                      |
+|                       |                                      |
+|                       |                                      |
