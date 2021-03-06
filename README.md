@@ -38,8 +38,8 @@ It's important to determine when the inverse exists. To do this, we use a varian
 
 ## Complexities of the algorithms:
 
-|   Algorithm           | Complexity of the Algorithm          |
-| ----------------------| -------------------------------------|
-|                       |                                      |
-|                       |                                      |
-|                       |                                      |
+|   Algorithm           | Complexity of the Algorithm                               |
+| ----------------------| ----------------------------------------------------------|
+| [Binary Euclidean Algorithm](bineuclid.py) |                                      |
+|                       |                                                           |
+|                       |                                                           |
