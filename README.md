@@ -41,5 +41,5 @@ It's important to determine when the inverse exists. To do this, we use a varian
 |   Algorithm                                | Complexity of the Algorithm                               |
 | -------------------------------------------| ----------------------------------------------------------|
 | [Binary Euclidean Algorithm](bineuclid.py) |          O(log n)                                         |
-| [Euclidean gcd Algorithm](euclideanalgo.py)|      O(log(max(A, B)))                                    |
-| [Extended Euclidean Algorithm](eea.py)     |                                                           |
+| [Euclidean gcd Algorithm](euclideanalgo.py)|                                                           |
+| [Extended Euclidean Algorithm](eea.py)     |          O(log(max(A, B)))                                |
